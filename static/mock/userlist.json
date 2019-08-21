@@ -1,0 +1,13 @@
+{
+    "data":{
+        "UserList":[
+            {"username":"爱吃西瓜的小夏","sex":"男","age":"19","class":"软件1704","like":"前端"},
+            {"username":"小夏","sex":"男","age":"21","class":"软件1705","like":"游泳"},
+            {"username":"小黄","sex":"女","age":"19","class":"软件1705","like":"下棋"},
+            {"username":"小明","sex":"男","age":"18","class":"软件1704","like":"游戏"},
+            {"username":"小刘","sex":"男","age":"22","class":"软件1704","like":"电影"},
+            {"username":"小李","sex":"女","age":"20","class":"软件1705","like":"做饭"}
+            
+        ]
+    }
+}
